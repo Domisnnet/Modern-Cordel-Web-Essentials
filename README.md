@@ -130,7 +130,11 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Explore os arquivos de estilo e estrutura:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FModern--Cordel--Web--Essentials-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FModern--Cordel--Web--Essentials-F7DF1E?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials)
+
 ---
 
 <h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
