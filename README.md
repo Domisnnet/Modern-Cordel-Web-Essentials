@@ -9,7 +9,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20Bootstrap-blueviolet)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/blob/main/LICENSE)
 
-![Cordel Moderno](src/imagens/iPad-Air-5-820x1180.png)
+![Cordel Moderno](src/imagens/cordel-moderno.png)
 
 Bem-vindo ao **Cordel Moderno**! Este repositório celebra a obra de **Milton Duarte**, unindo a tradição da literatura de cordel com a velocidade da era digital. Através de versos em septilhas (estrofes de sete versos), o projeto explora a nostalgia da comunicação antiga em contraste com a evolução tecnológica contemporânea.
 
