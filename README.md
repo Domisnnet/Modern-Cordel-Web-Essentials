@@ -1,8 +1,13 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Modern-Cordel-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Modern-Cordel-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Modern-Cordel-Web-Essentials?style=for-the-badge)
+
+
 <h2 id="sobre-o-projeto">1. 🎤 Cordel Moderno: Um Poema Digital 🎤</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20Bootstrap-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/cordel-moderno/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/blob/main/LICENSE)
 
 ![Cordel Moderno](src/imagens/iPad-Air-5-820x1180.png)
 
@@ -36,7 +41,7 @@ Bem-vindo ao **Cordel Moderno**! Este repositório celebra a obra de **Milton Du
 Clique no botão abaixo para ler o Cordel Moderno diretamente no seu navegador:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/cordel-moderno/" target="_blank">
+  <a href="https://domisnnet.github.io/Modern-Cordel-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -72,7 +77,7 @@ Implementação de containers flexíveis para que as imagens ilustrativas e o te
 
 Deseja analisar a estrutura deste projeto cultural? Explore o repositório oficial:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fcordel--moderno-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/cordel-moderno)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FModern--Cordel--Web--Essentials-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials)
 
 ---
 
@@ -82,11 +87,17 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/cordel-moderno/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
 | **03** | **Commit** | `git commit -m 'feat: nova animação no texto'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/cordel-moderno/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Modern-Cordel-Web-Essentials?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/issues/new)
 
 ---
 
@@ -135,10 +146,12 @@ O **Cordel Moderno** é uma união entre a poesia popular e o desenvolvimento we
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/cordel-moderno/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Modern-Cordel-Web-Essentials/blob/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
